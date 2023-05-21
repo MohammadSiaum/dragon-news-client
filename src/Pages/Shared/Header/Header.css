@@ -1,0 +1,8 @@
+.header-navibar a {
+    text-decoration: none;
+    color: #f0f8ffd5;
+    transition: 0.30s;
+}
+.header-navibar a:hover{
+    color: aliceblue;
+}
